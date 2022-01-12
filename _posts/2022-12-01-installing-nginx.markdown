@@ -946,21 +946,19 @@ Description
 
 ```fallback
 
-#### Including Third-Party Modules
+## Including Third-Party Modules
 
 You can extend NGINX functionality by compiling NGINX Open Source with your own module or a third‑party module. Some third‑party modules are listed in the [NGINX Wiki](https://nginx.com/resources/wiki/modules/). Use third‑party modules at your own risk as their stability is not guaranteed.
 
 <span id="modules_third_party"></span>
-##### Statically Linked Modules
+## Statically Linked Modules
 
-Most modules built into NGINX Open Source are _statically linked_: they are built into NGINX Open Source at compile time and are linked to the NGINX binary statically. These modules can be disabled only by recompiling NGINX.
+<pre>Most modules built into NGINX Open Source are _statically linked_: they are built into NGINX Open Source at compile time and are linked to the NGINX binary statically. These modules can be disabled only by recompiling NGINX.
 
-To compile NGINX Open Source with a statically linked third‑party module, include the `--add-module=<PATH>` option on the `configure` command, where `<PATH>` is the path to the source code (this example is for the [RTMP](https://github.com/arut/nginx-rtmp-module)  module):
+To compile NGINX Open Source with a statically linked third‑party module, include the `--add-module=<PATH>` option on the `configure` command, where `<PATH>` is the path to the source code (this example is for the [RTMP](https://github.com/arut/nginx-rtmp-module)  module):</pre>
 
 ```shell
-$  ./configure ... --add-module=/usr/build/nginx-rtmp-module
-
-```
+$  ./configure ... --add-module=/usr/build/nginx-rtmp-module```
 
 ##### Dynamically Linked Modules[](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#dynamically-linked-modules "Dynamically Linked Modules")
 
