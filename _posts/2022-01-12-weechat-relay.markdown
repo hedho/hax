@@ -13,12 +13,12 @@ To use Weechat and Weechat Relay on OpenBSD you would need to follow those steps
 
 Note: Start this on tmux then you can detach from it and use it as a relay from glowing bear web interface
 
-$ weechat
+```$ weechat```
 Note: Before you start setup Weechat Relay you will need to disable Listening to Ipv6 for it to work, at the moment it has an issue if Ipv6 is enabled for relay it binds only on Ipv6, it won't be an issue if you do own an Ipv6.
 
 For this after you open weechat you would need to run:
 
-/set relay.network.ipv6 off
+```/set relay.network.ipv6 off```
 Relay setup
 
 On the server's instance of weechat:
