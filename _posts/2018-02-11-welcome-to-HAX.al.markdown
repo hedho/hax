@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Hax.al!"
-date:   2018-02-11
-last_modified_at: 2019-10-16
-categories: [Main]
 tags: main
+mathjax: on
 ---
 
 # HAX.AL welcomes you

@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Introducing OpenSMTPD"
-date:   2022-01-12
-categories: [OpenBSD]
-tags: openbsd
+tags: main
+mathjax: on
 ---
 
 # Introduction
