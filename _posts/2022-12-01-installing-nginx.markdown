@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing NGINX Open Source!"
-tags: main
+tags: linux
 mathjax: on
 ---
 # Installing NGINX Open Source
