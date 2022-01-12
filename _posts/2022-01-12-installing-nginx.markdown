@@ -950,7 +950,6 @@ Description
 
 You can extend NGINX functionality by compiling NGINX Open Source with your own module or a third‑party module. Some third‑party modules are listed in the [NGINX Wiki](https://nginx.com/resources/wiki/modules/). Use third‑party modules at your own risk as their stability is not guaranteed.
 
-<span id="modules_third_party"></span>
 ## Statically Linked Modules
 
 <pre>Most modules built into NGINX Open Source are _statically linked_: they are built into NGINX Open Source at compile time and are linked to the NGINX binary statically. These modules can be disabled only by recompiling NGINX.
