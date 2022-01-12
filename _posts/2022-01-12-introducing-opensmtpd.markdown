@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing OpenSMTPD"
-tags: main
+tags: openbsd
 mathjax: on
 ---
 
