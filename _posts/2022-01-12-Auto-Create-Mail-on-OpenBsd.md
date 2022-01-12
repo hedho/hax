@@ -28,11 +28,11 @@ And you're email will be created.
 
 Thank you!
 
-```#!/bin/bash
+`#!/bin/bash
 
 echo $1: $1@$2 >> /etc/mail/aliases
 echo $1@$2  vmail >> /etc/mail/virtuals
 echo $1@$2:$3::::::userdb_quota_rule=*:storage=1G >> /etc/mail/passwd
 rcctl restart smtpd
-rcctl restart dovecot```
+rcctl restart dovecot`
 
