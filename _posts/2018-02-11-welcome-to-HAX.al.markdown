@@ -4,10 +4,10 @@ title:  "Welcome to Hax.al!"
 date:   2018-02-11
 last_modified_at: 2019-10-16
 categories: [Main]
+tags: main
 ---
 
 # HAX.AL welcomes you
-
 
 ### This is a personal website, there is shared some experiences or at least we try to.
 Anyone who want to add something here is welcome, eventhough it is personal I like to share my space for good opinions.
