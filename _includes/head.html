@@ -7,4 +7,9 @@
     {% if page.mathjax %}{% include head/mathjax.html %}{% endif %}
     {% if jekyll.environment == 'production' and site.google_analytics %}{% include head/google-analytics.html %}{% endif %}
     {% if jekyll.environment == 'production' and site.twitter_cards %}{% include head/twitter-cards.html %}{% endif %}
+
+    <div class="search" id="js-search">
+            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+                          <ul class="search__results" id="js-search__results"></ul>
+        <script src="/static/super-search.js"></script>
 </head>
