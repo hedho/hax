@@ -2,8 +2,9 @@
 layout: post
 title:  "KISSmo Paste!"
 date:   2021-10-11
-last_modified_at: 2021-10.12
+last_modified_at: 2021-10-12
 categories: [Development]
+tags: development
 ---
 
 Visit the demo.
