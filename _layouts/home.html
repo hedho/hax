@@ -2,9 +2,6 @@
 layout: default
 ---
 <div class="home">
-              <div class="search" id="js-search">
-            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
-            <ul class="search__results" id="js-search__results"></ul>
 <span class="post-counter" >{{ site.posts | size }} Posts</span>
 <ul>
     {% for post in site.posts %}
@@ -20,4 +17,3 @@ layout: default
     {% endfor %}
 </ul>
 </div>
-              <script src="/static/super-search.js"></script>
