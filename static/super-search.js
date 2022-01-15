@@ -63,7 +63,7 @@
     }
 
     var xmlhttp=new XMLHttpRequest();
-    xmlhttp.open("GET","http://rss.app/feeds/5ycLBB7cYoCEwBOi.xml");
+    xmlhttp.open("GET","sitemap.xml");
     xmlhttp.onreadystatechange = function () {
         if (xmlhttp.readyState != 4) return;
         if (xmlhttp.status != 200 && xmlhttp.status != 304) { return; }
