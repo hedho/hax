@@ -3,10 +3,10 @@ layout: default
 ---
 <article>
     <div class="post-header">
-        <h1>
+        <h2 id=OpenBSD>
             <a href="{% include relative %}/tags/#{{ page.tags[0] | downcase }}">#{{ page.tags[0] }}</a> 
             {{ page.title | escape }}
-        </h1>
+        </h2>
         <p class="post-info">
                 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
             {% for tag in page.tags %}
