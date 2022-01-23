@@ -25,7 +25,7 @@ Si pasoje si nji biznes i vogel apo në zhvillim në vend se të shfrytezohen t�
 # Çfarë ofrojnë këto platëforma !
 Në këto platëforma ofrohen aplikacione "extensions" shtesë të cilat bëjnë marketingun nji kafshatë më të lehtë. Si vijon këtu do t'ju prezantoj se si mundë të krijohet nji kampanjë  marketingu në "Shopify" e cila të ofronë mundesi të ndryshme të marketingut në një vend për të gjitha platëformat, po ashtu dhe nese kemi klient aktual të abonuar mundë të dergohet "Shopify Email" e cila mundeson njoftimin e lanesimit të nji produkti apo bërjen e nji ofrete për klientë.
 
-![enter image description here](https://i.imgur.com/jpA8Aqb.png)
+![enter image description here](https://hax.al/imazhe/shopify.png)
 Imazhi që shihni është nji shembull nga **Shopify** ku mund të shifni se si mund të krijohet nji kampanjë me shumë mundesi, për të gjitha platëformat përfshirë në nji!
 
 Gjithesi kjo është prezantimi i nji mundesi më të lehtë për zhvillim të biznesit në nji metodë më të lehtë se sa ajo e zhivlluar totalisht vetë, ku aty duhet të kërkohet nga programeri që të japë përkrahje maksimale për (SEO) Search Engine, apo motoret kërkues të kërkimit që ti njof apo listoj në mënyrë adekuate #keywords "fjalet kyqe për kërkim" në mënyrë qe kur të kërkohet diçka që ka të bëj me ato fjalë të cilat ne kemi listuar të shfaqet në cdo motor kërkues apo kur ne të sponzorizojme nji fjalë kyqe të cilen ne duam të na listoj dhe produktet tona.
